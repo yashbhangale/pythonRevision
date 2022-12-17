@@ -1,1 +1,7 @@
 print("HELLO")
+print("yash")
+print("mahhesh")
+print("Bhangale")
+print("ashwini")
+print("yash")
+print("yash")
