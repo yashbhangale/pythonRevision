@@ -1,0 +1,46 @@
+>>> with open("spider.txt") as file:
+...     for line in file:
+...             print(line.upper())
+... 
+HELLO HOW ARE YOU 
+
+DSA
+
+SDASDSA
+
+SDAASDA
+
+>>> 
+>>> 
+>>> 
+>>> with open("spider.txt") as file:
+...     for line in file:
+...             print(line.strip().upper())
+... 
+HELLO HOW ARE YOU
+DSA
+SDASDSA
+SDAASDA
+>>> 
+>>> 
+>>> 
+>>> 
+>>> file = open("spider.txt")
+>>> line = file.readlines()
+>>> file.close()
+>>> line.sort()
+>>> print(lines)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'lines' is not defined. Did you mean: 'line'?
+>>> 
+>>> 
+>>> 
+>>> 
+>>> file = open("spider.txt")
+>>> lines = file.readlines()
+>>> file.close()
+>>> lines.sort()
+>>> print(lines)
+['dsa\n', 'hello how are you \n', 'sdaasda\n', 'sdasdsa\n']
+>>> 
