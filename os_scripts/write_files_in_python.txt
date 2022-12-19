@@ -1,0 +1,13 @@
+>>> with open("novel.txt", "w") as file:
+...     file.write("It was a dark and stormy night")
+... 30
+  File "<stdin>", line 3
+    30
+    ^^
+SyntaxError: invalid syntax
+>>> 
+>>> 
+>>> 30
+30
+>>> 30
+30
