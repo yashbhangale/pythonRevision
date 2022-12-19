@@ -1,0 +1,46 @@
+>>> file = open("spider.txt")
+>>> print(file.readline())
+hello how are you 
+
+>>> print(file.readline())
+dsa
+
+>>> print(file.readline())
+sdasdsa
+
+>>> print(file.readline())
+sdaasda
+
+>>> print(file.read())
+
+>>> print(file.read())
+
+>>> 
+>>> 
+>>> 
+>>> print(file.read())
+
+>>> file = open("spider.txt")
+>>> print(file.read())
+hello how are you 
+dsa
+sdasdsa
+sdaasda
+
+>>> file.close()
+>>> 
+>>> 
+>>> with open("spider.txt") as file:
+... print(file.read())
+  File "<stdin>", line 2
+    print(file.read())
+    ^
+IndentationError: expected an indented block after 'with' statement on line 1
+>>> with open("spider.txt") as file:
+...     print(file.read())
+... 
+hello how are you 
+dsa
+sdasdsa
+sdaasda
+
