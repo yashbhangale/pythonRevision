@@ -1,6 +1,6 @@
 # pythonRevision
 
-learn pyhton from scratch
+learn python from scratch
 each file are divided into set of days , every day one can learn new syntax and module
 
 This repo wil be updated by time.
