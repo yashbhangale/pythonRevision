@@ -12,6 +12,7 @@ This repo includes
 * exploring pygame, tensorflow 2.0, sensors module
 * python interaction with operating system 
 * Python automation 
+* pyscripts
 and much more
 
 
