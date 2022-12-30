@@ -9,5 +9,3 @@ regex101 is a website to learn, build, & test regex.
 
 
 grep is a command line utility for searching plain-text data sets for lines that match a regular expression.
-
-
