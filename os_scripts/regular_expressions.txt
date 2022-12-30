@@ -7,6 +7,7 @@ a working knowledge of regular expressions is a handy tool to, well, have handy.
 python module to deal with regular expressions is re
 
 
+grep is a command line utility for searching plain-text data sets for lines that match a regular expression.
 
 
 
