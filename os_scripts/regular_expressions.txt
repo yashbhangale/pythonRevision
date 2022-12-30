@@ -1,1 +1,22 @@
-hii i am yash
+A regular expression ( regex ) is a string query that express string patterns. 
+regex is essentially a search query for text that's expressed by string pattern.
+Regular expressions are used to search, edit, and manipulate text and data. 
+regex used by many programming languages and text editors.
+From IT specialist to software engineers, system administrators and data analyst,
+a working knowledge of regular expressions is a handy tool to, well, have handy.
+python module to deal with regular expressions is re
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
