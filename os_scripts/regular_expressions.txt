@@ -5,19 +5,9 @@ regex used by many programming languages and text editors.
 From IT specialist to software engineers, system administrators and data analyst,
 a working knowledge of regular expressions is a handy tool to, well, have handy.
 python module to deal with regular expressions is re
+regex101 is a website to learn, build, & test regex.
 
 
 grep is a command line utility for searching plain-text data sets for lines that match a regular expression.
-
-
-
-
-
-
-
-
-
-
-
 
 
