@@ -26,8 +26,6 @@ answer is 2000*2.2*4/100=176
 
 from math import floor
 
-from math import floor
-
 def calculate_simple_interest(principal, rate_of_interest, time_period):
     # Calculate Simple Interest using the formula: Principal * Rate * Time / 100
     simple_interest = (principal * rate_of_interest * time_period) / 100
